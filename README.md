@@ -1,6 +1,6 @@
 # Web Dev Bootcamp Playground
 
-Monorepo del bootcamp fullstack de Diego y Raúl. Aprendizaje por pares (XP / Ping-Pong Pair Programming), guiado por Claude Code como Lead Instructor con método socrático: pistas y code review, nunca soluciones.
+Monorepo del bootcamp fullstack de Raúl y [makorki1805](https://github.com/makorki1805). Aprendizaje por pares (XP / Ping-Pong Pair Programming), guiado por Claude Code como Lead Instructor con método socrático: pistas y code review, nunca soluciones. Diego Pérez Muñoz ([@Diegoprmz](https://github.com/Diegoprmz)) es code owner del repo — revisa y califica cada Pull Request; ningún cambio entra a `main` sin su aprobación.
 
 ## Estructura
 
@@ -14,7 +14,7 @@ Monorepo del bootcamp fullstack de Diego y Raúl. Aprendizaje por pares (XP / Pi
 - Trabajo en pareja: rama `feature/mod-XX-nombre-tarea`.
 - Evaluación individual: rama `capstone/mod-XX-nombre-estudiante`.
 - Commits en formato [Conventional Commits](https://www.conventionalcommits.org/): `tipo(alcance): descripción`.
-- Todo cambio entra a `main` vía Pull Request, con aprobación del compañero de equipo (peer review) y de Claude Code.
+- Todo cambio entra a `main` vía Pull Request. `main` exige revisión de Code Owner (Diego) antes de mergear — está en `.github/CODEOWNERS`.
 
 ## Módulos
 
